@@ -1,0 +1,13 @@
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Column.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Column/Pg.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Driver/Base.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Driver/Pg.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Driver/SQLite.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Driver/mysql.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/ForeignKey.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/ForeignKey/Pg.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Iterator.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Iterator/Null.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Table.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/DBIx/Inspector/Table/Pg.pm

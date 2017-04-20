@@ -1,0 +1,79 @@
+{
+   "abstract" : "Class for objects that represent HTML elements",
+   "author" : [
+      "Jeff Fearn <jfearn@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4222",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "HTML-Tree",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "HTML::Parser" : "3.46",
+            "HTML::Tagset" : "3.02",
+            "LWP::UserAgent" : "0",
+            "Module::Build" : "0",
+            "Pod::Usage" : "0",
+            "Test::Exception" : "0",
+            "Test::More" : "0",
+            "URI::file" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "Module::Build" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "HTML::Parser" : "3.46",
+            "HTML::Tagset" : "3.02",
+            "LWP::UserAgent" : "5.802",
+            "Pod::Usage" : "0",
+            "Scalar::Util" : "0",
+            "perl" : "v5.8.0"
+         }
+      }
+   },
+   "provides" : {
+      "HTML::AsSubs" : {
+         "file" : "lib/HTML/AsSubs.pm",
+         "version" : "5.04"
+      },
+      "HTML::Element" : {
+         "file" : "lib/HTML/Element.pm",
+         "version" : "5.04"
+      },
+      "HTML::Element::traverse" : {
+         "file" : "lib/HTML/Element/traverse.pm",
+         "version" : "5.04"
+      },
+      "HTML::Parse" : {
+         "file" : "lib/HTML/Parse.pm",
+         "version" : "5.04"
+      },
+      "HTML::Tree" : {
+         "file" : "lib/HTML/Tree.pm",
+         "version" : "5.04"
+      },
+      "HTML::TreeBuilder" : {
+         "file" : "lib/HTML/TreeBuilder.pm",
+         "version" : "5.04"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "5.04",
+   "x_serialization_backend" : "JSON::PP version 2.27400"
+}

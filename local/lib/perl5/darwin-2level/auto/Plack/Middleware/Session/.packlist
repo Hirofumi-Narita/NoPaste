@@ -1,0 +1,11 @@
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Middleware/Session.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Middleware/Session/Cookie.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session/Cleanup.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session/State.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session/State/Cookie.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session/Store.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session/Store/Cache.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session/Store/DBI.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session/Store/File.pm
+/Users/narita/project/test_amon2/NoPaste/local/lib/perl5/Plack/Session/Store/Null.pm
